@@ -1,0 +1,45 @@
+{
+    "nome": "Amábile Emanuelly da Luz",
+    "idade": 16,
+    "email": "amabileemanuelly01@gmail.com",
+    "cursosFavoritos": [
+        "Informática",
+        "Robótica",
+        "Fotografia"
+    ],
+    "hobbies": [
+        "Praticar Esportes",
+        "Cozinhar",
+        "Escutar a Música",
+        "Desenhar"
+    ],
+    "agendaSemanal": {
+        "segunda": [
+            "Matemática",
+            "Diversidade Humana",
+            "Artes"
+        ],
+        "terca": [
+            "Algoritmos",
+            "Biologia",
+            "Inglês"
+        ],
+        "quarta": [
+            "Artes",
+            "Português",
+            "Geografia"
+
+        ],
+        "quinta": [
+            "Filosofia",
+            "Português",
+            "Fisíca"
+        ],
+        "sexta": [
+            "Sociologia",
+            "Fotografia",
+            "História"
+
+        ]
+    }
+}

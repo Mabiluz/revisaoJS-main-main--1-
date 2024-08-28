@@ -1,0 +1,41 @@
+$body-bg-color: #f4f4f4;
+$text-color: #333;
+$primary-bg-color: #eee;
+$button-padding: 10px;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: $body-bg-color;
+  color: $text-color;
+  text-align: center;
+  margin-top: 50px;
+
+  
+}
+
+#content {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#itemInput {
+  width: 70%;
+  padding: $button-padding;
+  margin-right: 10px;
+}
+
+#addItemBtn {
+  padding: $button-padding;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+
+  li {
+    background-color: $primary-bg-color;
+    margin: 5px 0;
+    padding: $button-padding;
+    border-radius: 5px;
+  }
+}

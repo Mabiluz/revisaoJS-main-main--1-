@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#content {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#itemInput {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#addItemBtn {
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  background-color: #eee;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}/*# sourceMappingURL=styles.css.map */
